@@ -1,0 +1,14 @@
+D:\CSProjects\pppilab2\bin\Debug\net6.0\pppilab2.exe
+D:\CSProjects\pppilab2\bin\Debug\net6.0\pppilab2.deps.json
+D:\CSProjects\pppilab2\bin\Debug\net6.0\pppilab2.runtimeconfig.json
+D:\CSProjects\pppilab2\bin\Debug\net6.0\pppilab2.dll
+D:\CSProjects\pppilab2\bin\Debug\net6.0\pppilab2.pdb
+D:\CSProjects\pppilab2\obj\Debug\net6.0\pppilab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSProjects\pppilab2\obj\Debug\net6.0\pppilab2.AssemblyInfoInputs.cache
+D:\CSProjects\pppilab2\obj\Debug\net6.0\pppilab2.AssemblyInfo.cs
+D:\CSProjects\pppilab2\obj\Debug\net6.0\pppilab2.csproj.CoreCompileInputs.cache
+D:\CSProjects\pppilab2\obj\Debug\net6.0\pppilab2.dll
+D:\CSProjects\pppilab2\obj\Debug\net6.0\refint\pppilab2.dll
+D:\CSProjects\pppilab2\obj\Debug\net6.0\pppilab2.pdb
+D:\CSProjects\pppilab2\obj\Debug\net6.0\pppilab2.genruntimeconfig.cache
+D:\CSProjects\pppilab2\obj\Debug\net6.0\ref\pppilab2.dll
